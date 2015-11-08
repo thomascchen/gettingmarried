@@ -1,0 +1,36 @@
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+h1 {
+  padding: 200px 0;
+}
+
+.is-center {
+    text-align: center;
+}
+
+.splash {
+  background-color: #F4F4F4;
+}
+
+.details {
+  background-color: #A7A7A7;
+}
+
+.directions {
+  background-color: #F4F4F4;
+}
+
+.accomodations {
+  background-color: #A7A7A7;
+}
+
+.things-to-do {
+  background-color: #F4F4F4;
+}
+
+.registry {
+  background-color: #A7A7A7;
+}
