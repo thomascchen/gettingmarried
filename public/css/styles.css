@@ -3,7 +3,26 @@ html, button, input, select, textarea,
     font-family: Georgia, Times, "Times New Roman", serif;
 }
 
-h1 {
+.rsvp-button {
+  background-color: white;
+  border-radius: 30px;
+  padding: 15px 21px;
+  text-decoration: none;
+  color: black;
+}
+
+a:active.rsvp-button {
+  text-decoration: none;
+  color: black:
+}
+
+a:hover.rsvp-button {
+  color: black;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+}
+
+.padding {
   padding: 200px 0;
 }
 
@@ -11,8 +30,14 @@ h1 {
     text-align: center;
 }
 
-.splash {
+.headline {
   background-color: #F4F4F4;
+  /*background-image: '/images/IMG_9085.jpg';*/
+}
+
+.title {
+  margin: 0px;
+  padding: 20px;
 }
 
 .details {
